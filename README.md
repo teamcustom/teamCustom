@@ -1,1 +1,3 @@
-# teamCustom
+1、新建数据库用户opencart,导入opencart.sql
+2、提交项目为已部署源码，不需再进行安装引导操作，直接将代码下载放与应用部署目录即可
+3、修改config.php内应用目录与数据库配置 eg:E:/wamp64/www/ 替换成实际应用部署目录
