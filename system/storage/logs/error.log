@@ -1,0 +1,185 @@
+2017-04-30 9:11:42 - PHP Notice:  Undefined variable: viewed in E:\wamp64\www\opencart\catalog\view\theme\default\template\product\product.tpl on line 16
+2017-04-30 9:11:42 - PHP Notice:  Undefined variable: text_viewed in E:\wamp64\www\opencart\catalog\view\theme\default\template\product\product.tpl on line 16
+2017-04-30 9:12:03 - PHP Notice:  Undefined variable: viewed in E:\wamp64\www\opencart\catalog\view\theme\default\template\product\product.tpl on line 16
+2017-04-30 9:12:03 - PHP Notice:  Undefined variable: text_viewed in E:\wamp64\www\opencart\catalog\view\theme\default\template\product\product.tpl on line 16
+2017-05-01 8:57:01 - PHP Notice:  Undefined property: Template\PHP::$registry in E:\wamp64\www\opencart\catalog\view\theme\lexus_shopping_new\template\common\footer.tpl on line 10
+2017-05-01 9:00:36 - PHP Notice:  Undefined variable: address in E:\wamp64\www\opencart\catalog\view\theme\gd-free\template\common\footer.tpl on line 43
+2017-05-01 9:00:36 - PHP Notice:  Undefined variable: telephone in E:\wamp64\www\opencart\catalog\view\theme\gd-free\template\common\footer.tpl on line 44
+2017-05-01 9:00:36 - PHP Notice:  Undefined variable: email in E:\wamp64\www\opencart\catalog\view\theme\gd-free\template\common\footer.tpl on line 45
+2017-05-01 9:00:36 - PHP Notice:  Undefined index: image in E:\wamp64\www\opencart\catalog\view\theme\gd-free\template\common\language.tpl on line 8
+2017-05-01 9:00:36 - PHP Notice:  Undefined index: image in E:\wamp64\www\opencart\catalog\view\theme\gd-free\template\common\language.tpl on line 14
+2017-05-01 9:00:36 - PHP Notice:  Undefined index: image in E:\wamp64\www\opencart\catalog\view\theme\gd-free\template\common\language.tpl on line 14
+2017-05-01 9:00:49 - PHP Notice:  Undefined variable: address in E:\wamp64\www\opencart\catalog\view\theme\gd-free\template\common\footer.tpl on line 43
+2017-05-01 9:00:49 - PHP Notice:  Undefined variable: telephone in E:\wamp64\www\opencart\catalog\view\theme\gd-free\template\common\footer.tpl on line 44
+2017-05-01 9:00:49 - PHP Notice:  Undefined variable: email in E:\wamp64\www\opencart\catalog\view\theme\gd-free\template\common\footer.tpl on line 45
+2017-05-01 9:00:50 - PHP Notice:  Undefined index: image in E:\wamp64\www\opencart\catalog\view\theme\gd-free\template\common\language.tpl on line 8
+2017-05-01 9:00:50 - PHP Notice:  Undefined index: image in E:\wamp64\www\opencart\catalog\view\theme\gd-free\template\common\language.tpl on line 14
+2017-05-01 9:00:50 - PHP Notice:  Undefined index: image in E:\wamp64\www\opencart\catalog\view\theme\gd-free\template\common\language.tpl on line 14
+2017-05-01 9:00:53 - PHP Notice:  Undefined variable: address in E:\wamp64\www\opencart\catalog\view\theme\gd-free\template\common\footer.tpl on line 43
+2017-05-01 9:00:53 - PHP Notice:  Undefined variable: telephone in E:\wamp64\www\opencart\catalog\view\theme\gd-free\template\common\footer.tpl on line 44
+2017-05-01 9:00:53 - PHP Notice:  Undefined variable: email in E:\wamp64\www\opencart\catalog\view\theme\gd-free\template\common\footer.tpl on line 45
+2017-05-01 9:00:53 - PHP Notice:  Undefined index: image in E:\wamp64\www\opencart\catalog\view\theme\gd-free\template\common\language.tpl on line 8
+2017-05-01 9:00:53 - PHP Notice:  Undefined index: image in E:\wamp64\www\opencart\catalog\view\theme\gd-free\template\common\language.tpl on line 14
+2017-05-01 9:00:53 - PHP Notice:  Undefined index: image in E:\wamp64\www\opencart\catalog\view\theme\gd-free\template\common\language.tpl on line 14
+2017-05-01 11:54:01 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in E:\wamp64\www\opencart\system\library\mail.php on line 158
+2017-05-01 11:54:02 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in E:\wamp64\www\opencart\system\library\mail.php on line 158
+2017-05-01 11:55:46 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in E:\wamp64\www\opencart\system\library\mail.php on line 158
+2017-05-01 11:55:59 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in E:\wamp64\www\opencart\system\library\mail.php on line 158
+2017-05-01 14:08:09 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in E:\wamp64\www\opencart\system\library\mail.php on line 158
+2017-05-01 14:08:10 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in E:\wamp64\www\opencart\system\library\mail.php on line 158
+2017-05-04 15:02:59 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-04 15:10:28 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-04 15:14:13 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-04 15:35:24 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-04 15:39:25 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-04 15:40:45 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-04 15:40:45 - PHP Warning:  sprintf(): Too few arguments in E:\wamp64\www\opencart\admin\controller\common\footer.php on line 9
+2017-05-04 15:41:01 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-04 15:43:21 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-04 15:47:12 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 0:12:01 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in E:\wamp64\www\opencart\system\library\mail.php on line 158
+2017-05-06 0:12:02 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in E:\wamp64\www\opencart\system\library\mail.php on line 158
+2017-05-06 0:44:27 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in E:\wamp64\www\opencart\system\library\mail.php on line 158
+2017-05-06 0:44:28 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in E:\wamp64\www\opencart\system\library\mail.php on line 158
+2017-05-06 1:42:24 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 1:53:29 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 1:53:33 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 1:53:35 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 1:53:48 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 1:53:54 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 1:54:07 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 1:54:12 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 1:54:43 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 1:54:52 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 1:54:58 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 1:55:07 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 1:55:47 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 1:55:52 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 1:55:55 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 1:56:01 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 1:59:00 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 2:05:26 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 2:06:29 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in E:\wamp64\www\opencart\system\library\mail.php on line 158
+2017-05-06 2:06:30 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in E:\wamp64\www\opencart\system\library\mail.php on line 158
+2017-05-06 2:06:49 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in E:\wamp64\www\opencart\system\library\mail.php on line 158
+2017-05-06 2:06:50 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in E:\wamp64\www\opencart\system\library\mail.php on line 158
+2017-05-06 2:07:45 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 2:07:48 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 2:08:01 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 2:10:40 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 2:10:43 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 2:13:01 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 2:13:10 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 2:13:47 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 2:14:00 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 2:14:28 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 2:15:02 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 2:15:05 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 2:15:36 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in E:\wamp64\www\opencart\system\library\mail.php on line 158
+2017-05-06 2:15:47 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 2:15:50 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 2:18:27 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 2:18:31 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 2:18:56 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in E:\wamp64\www\opencart\system\library\mail.php on line 158
+2017-05-06 2:20:08 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in E:\wamp64\www\opencart\system\library\mail.php on line 158
+2017-05-06 2:20:16 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 2:20:56 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 2:21:03 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 2:21:53 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in E:\wamp64\www\opencart\system\library\mail.php on line 158
+2017-05-06 2:22:28 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 2:22:30 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 2:24:13 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 2:25:12 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 2:25:54 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 2:39:18 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 2:40:12 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 2:40:29 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 2:40:56 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 2:43:56 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 2:44:00 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 3:05:00 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in E:\wamp64\www\opencart\system\library\mail.php on line 158
+2017-05-06 3:05:32 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 6:05:50 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 6:06:40 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 6:06:44 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 6:07:45 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 6:08:05 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 6:11:05 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 6:11:11 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 6:12:17 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 6:13:36 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 6:14:27 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 6:14:48 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 6:14:58 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 6:15:14 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 6:15:49 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 6:16:01 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 6:16:04 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 7:19:16 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 7:19:24 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 7:19:33 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 7:19:39 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 7:21:04 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 7:21:07 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 7:21:42 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 7:21:45 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 7:23:52 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 7:24:51 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 7:24:59 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 7:25:18 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 7:25:22 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 7:26:07 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 7:26:13 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 7:26:20 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 7:26:26 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 7:26:55 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 7:27:24 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 7:28:32 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 7:28:36 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 7:31:04 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 7:31:14 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 7:31:39 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 7:31:53 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 7:31:58 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 7:32:29 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in E:\wamp64\www\opencart\system\library\mail.php on line 158
+2017-05-06 7:33:44 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 7:33:53 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 7:34:01 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 7:34:34 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 7:34:37 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 7:35:13 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 7:35:19 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 7:41:48 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 7:42:04 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 9:34:56 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 9:34:59 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 9:35:02 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 9:36:14 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 9:36:44 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 9:36:51 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in E:\wamp64\www\opencart\system\library\mail.php on line 158
+2017-05-06 9:36:51 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 9:37:11 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 9:37:29 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in E:\wamp64\www\opencart\system\library\mail.php on line 158
+2017-05-06 9:37:38 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in E:\wamp64\www\opencart\system\library\mail.php on line 158
+2017-05-06 9:37:48 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in E:\wamp64\www\opencart\system\library\mail.php on line 158
+2017-05-06 9:37:53 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 9:37:58 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 9:38:12 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 9:38:57 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 9:41:16 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 9:41:28 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 9:42:25 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 9:42:50 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 9:43:00 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 9:43:06 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 9:43:11 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 9:43:49 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 9:44:10 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 9:44:14 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 9:44:35 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 9:44:39 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 9:44:54 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 9:44:58 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 9:45:51 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 9:48:01 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
+2017-05-06 9:48:04 - PHP Notice:  Undefined variable: username in E:\wamp64\www\opencart\admin\view\template\common\column_left.tpl on line 5
